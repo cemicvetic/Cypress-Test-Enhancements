@@ -15,6 +15,6 @@ Before diving into the examples, ensure you have the following prerequisites in 
 To get started with these examples, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/cypress-test-enhancements.git
+git clone https://github.com/cemicvetic/Cypress-Test-Enhancements.git
 cd cypress-test-enhancements
 npm install
