@@ -7,8 +7,7 @@ Welcome to the Cypress Test Enhancements Repository, where you can speed up your
 Before diving into the examples, ensure you have the following prerequisites in place:
 
 - Node.js (LTS version)
-- A modern web browser (Chrome, Firefox, Edge)
-- A code editor of your choice (VSCode, Sublime, Atom, etc.)
+- A code editor of your choice (VSCode, WebStorm, etc.)
 
 ## Installation
 
