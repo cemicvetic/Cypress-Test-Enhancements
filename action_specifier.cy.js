@@ -7,7 +7,7 @@ const testActions = [
 ];
 
 // Execute each action in the test
-testActions.forEach(({ action, selector, value } ) => {
+testActions.forEach(({ action, selector, value }) => {
     it(`should perform ${action} on ${selector}`, () => {
         if (action === 'click') {
             cy.get(selector).click();
