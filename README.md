@@ -4,7 +4,7 @@ Welcome to the Cypress Test Enhancements Repository, where you can speed up your
 
 ## Getting Started
 
-Before diving into the examples, ensure you have the following prerequisites in place
+Before diving into the examples, ensure you have the following prerequisites in place:
 
 - Node.js (LTS version)
 - A code editor of your choice (VSCode, WebStorm, etc.)
