@@ -1,4 +1,4 @@
-#  Cypress Test Enhancements Repository
+# Cypress Test Enhancements Repository
 
 Welcome to the Cypress Test Enhancements Repository, where you can speed up your Cypress test suites, boost their reliability, and minimize errors. 
 
