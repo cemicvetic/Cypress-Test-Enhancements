@@ -9,7 +9,7 @@ Before diving into the examples, ensure you have the following prerequisites in 
 - Node.js (LTS version)
 - A code editor of your choice (VSCode, WebStorm, etc.)
 
-##  Installation
+## Installation
 
 To get started with these examples, clone the repository and install the dependencies:
 
