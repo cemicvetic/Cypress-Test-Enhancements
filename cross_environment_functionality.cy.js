@@ -7,7 +7,7 @@ const screenSizes = [
 
 
 
- Test the application's responsiveness across different screen sizes
+// Test the application's responsiveness across different screen sizes
 describe('Responsive Design Tests', () => {
     screenSizes.forEach(({ type, width, height }) => {
         it(`should display correctly on a ${type}`, () => {
