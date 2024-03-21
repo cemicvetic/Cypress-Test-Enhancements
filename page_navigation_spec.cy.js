@@ -6,7 +6,7 @@ const pageTests = [
 ];
 
 // Iterate through each page test
-pageTests.forEach(({ path, expectedHeader }) => {
+  pageTests.forEach(({ path, expectedHeader }) => {
     it(`should navigate to ${path} and check the header`, () => {
         cy.visit(path);
         cy.get('h1').should('have.text', expectedHeader);
